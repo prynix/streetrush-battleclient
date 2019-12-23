@@ -1,4 +1,4 @@
-# StreetRush BattleClient
+# StreetRush.io
 
 A JavaScript card battle client for StreetRush.io
 
