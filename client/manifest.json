@@ -1,0 +1,14 @@
+{
+  "name": "DrugWars-BattleClient",
+  "short_name": "DWBC",
+  "start_url": "index.html",
+  "background_color": "#22272c",
+  "prefer_related_applications": true,
+  "display": "fullscreen",
+  "description": "Game",
+  "icons": [{
+    "src": "favicon.png",
+    "sizes": "32x32",
+    "type": "image/png"
+  }]
+}

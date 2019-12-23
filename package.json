@@ -1,0 +1,43 @@
+{
+  "name": "drugwars-battle-client",
+  "version": "0.0.04",
+  "author": "rafaelcastrocouto",
+  "description": "drugwars.io - Card Game BattleClient",
+  "homepage": "https://drugwars.io",
+  "readmeFilename": "README.md",
+  "engine": "node >= 0.10.x",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FutureShockco/drugwars-battle-client"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "bugs": {
+    "url": "https://github.com/FutureShockco/drugwars-battle-client/issues"
+  },
+  "keywords": [
+    "cardgame",
+    "cardgames",
+    "game",
+    "games",
+    "card",
+    "cards",
+    "dota",
+    "strategy",
+    "tactical"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "latest",
+    "grunt-contrib-clean": "latest",
+    "grunt-contrib-concat": "latest",
+    "grunt-contrib-cssmin": "latest",
+    "grunt-contrib-jshint": "latest",
+    "grunt-contrib-uglify": "latest",
+    "grunt-electron": "latest",
+    "http-server": "latest"
+  },
+  "license": "MIT"
+}
